@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anggiearpin.my.id" target="_blank"><img src="https://rudaya.id/assets/img/team/arpin.png" width="400"></a></p>
+<p align="center"><a href="https://anggiearpin.my.id" target="_blank"><img src="https://rudaya.id/assets/img/team/arpin.png" width="200"></a></p>
 
 Hallo Perkenalkan Nama Saya I Gede Anggie Suardika Arpin. Saya Merupakan Mahasiswa Semester 7 Program Studi Sistem Informasi.
 
